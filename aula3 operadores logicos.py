@@ -14,26 +14,3 @@ elif opcao == '3':
 else:
     print('Vc não quer saber sobre ninguem, esta opção é invalida , Por favor, reinicie o programa!')
 
-
-
-
-
-
-
-# var_verdade = True # boolean ou boleano
-# var_false = False
-# if var_verdade == True:
-#     print('var verdade é verdadeiro')
-
-
-#print(type(var_verdade),type(var_false))
-
-# Comparações
-# and  significa e
-# or significa ou
-# == igual
-# !=diferente
-# < menor
-# > maior
-# <= menor igual
-# >= maior igual
